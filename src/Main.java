@@ -12,6 +12,7 @@ public class Main {
                 new Albero(6),
                 9
         );
+
         System.out.println(root.stampaAlbero());
         System.out.println("Somma: " + root.sommaAlbero());
         System.out.println("Max: " + root.maxAlbero());
